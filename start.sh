@@ -8,6 +8,7 @@ while true; do
     if [ "$newHtml" != "$oldHtml" ]
     then
         oldHtml=$newHtml;
+        xdg-open $1
         play ./beep.wav
     fi
 done
