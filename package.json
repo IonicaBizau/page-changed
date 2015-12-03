@@ -1,6 +1,6 @@
 {
   "name": "bash-page-changed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A very little bash script that notifies you when the content on a page is changed.",
   "main": "index.js",
   "scripts": {
