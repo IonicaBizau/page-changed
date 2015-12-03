@@ -1,0 +1,42 @@
+{
+  "name": "bash-page-changed",
+  "version": "1.0.0",
+  "description": "A very little bash script that notifies you when the content on a page is changed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/page-changed.git"
+  },
+  "keywords": [
+    "page",
+    "changed",
+    "bash"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/page-changed/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/page-changed#readme",
+  "blah": {
+      "description": [
+          { "h2": "Usage" },
+          {
+              "code": {
+                  "language": "sh",
+                  "content": "./start.sh <the web page>"
+              }
+          },
+          { "h2": "Example" },
+          {
+              "code": {
+                  "language": "sh",
+                  "content": "./start.sh http://www.ubuntu.com/download/desktop"
+              }
+          }
+      ]
+  }
+}
