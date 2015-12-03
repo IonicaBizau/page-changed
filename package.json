@@ -22,21 +22,25 @@
   },
   "homepage": "https://github.com/IonicaBizau/page-changed#readme",
   "blah": {
-      "description": [
-          { "h2": "Usage" },
-          {
-              "code": {
-                  "language": "sh",
-                  "content": "./start.sh <the web page>"
-              }
-          },
-          { "h2": "Example" },
-          {
-              "code": {
-                  "language": "sh",
-                  "content": "./start.sh http://www.ubuntu.com/download/desktop"
-              }
-          }
-      ]
+    "description": [
+      {
+        "h2": "Usage"
+      },
+      {
+        "code": {
+          "language": "sh",
+          "content": "./start.sh <the web page>"
+        }
+      },
+      {
+        "h2": "Example"
+      },
+      {
+        "code": {
+          "language": "sh",
+          "content": "./start.sh http://www.ubuntu.com/download/desktop"
+        }
+      }
+    ]
   }
 }
