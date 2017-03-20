@@ -1,6 +1,6 @@
 {
   "name": "bash-page-changed",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "A very little bash script that notifies you when the content on a page is changed.",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "changed",
     "bash"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/page-changed/issues"
@@ -47,12 +47,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
